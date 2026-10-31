@@ -1,0 +1,7 @@
+{
+  "name": "ninho",
+  "private": true,
+  "type": "module",
+  "description": "Ninho — diário do bebê (PWA). As ferramentas em tools/ preparam as imagens feitas no ChatGPT.",
+  "devDependencies": { "sharp": "^0.33.5" }
+}
